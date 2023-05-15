@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/kimbareum"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimbareum&layout=compact&hide=Jupyter Notebook" alt="github stats" /></a>
+<!-- <a href="https://github.com/kimbareum"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kimbareum&layout=compact&hide=Jupyter Notebook" alt="github stats" /></a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbareum&hide=Jupyter Notebook&layout=compact)](https://github.com/kimbareum/github-readme-stats)
